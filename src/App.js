@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <header className="flex">
-        <img src={carmen} />
+        <img src={carmen} alt="Carmen Lopez" />
         <h3>.react | sass.</h3>
       </header>
       <main>
